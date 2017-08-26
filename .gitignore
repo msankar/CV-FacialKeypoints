@@ -4,3 +4,4 @@
 */.DS_Store
 data/test.csv
 data/training.csv
+my_model.h5
